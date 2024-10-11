@@ -1,0 +1,17 @@
+body{
+background: url(../imagenes/2\ soldadura-industrial.jpg);
+text-align: center; 
+} 
+
+h1{ 
+color: white;
+font-size: 30px;
+}
+
+img{border-radius: 70px;}
+
+p{
+    color: white;
+    font-family: 20px;
+    background-color: rgba(0, 139, 139, 0.438);
+}
